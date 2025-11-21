@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+
+.normal,
+.fancy {
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+    font-size: 28px;
+}
+
+.normal {
+    color: rgb(237, 237, 237);
+    background-color: rgba(18, 4, 4, 0.873);
+}
+
+.fancy {
+    background-color: rgb(227, 255, 45);
+}
